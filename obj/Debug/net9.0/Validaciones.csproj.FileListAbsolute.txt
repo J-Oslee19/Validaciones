@@ -1,0 +1,15 @@
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\bin\Debug\net9.0\Validaciones.exe
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\bin\Debug\net9.0\Validaciones.deps.json
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\bin\Debug\net9.0\Validaciones.runtimeconfig.json
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\bin\Debug\net9.0\Validaciones.dll
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\bin\Debug\net9.0\Validaciones.pdb
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.AssemblyInfoInputs.cache
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.AssemblyInfo.cs
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.dll
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\refint\Validaciones.dll
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.pdb
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.genruntimeconfig.cache
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\ref\Validaciones.dll
+C:\Users\Ashly Pineda\Desktop\00000000\Validaciones\obj\Debug\net9.0\Validaciones.sourcelink.json

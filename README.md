@@ -1,0 +1,2 @@
+# Validaciones
+Validaciones de clase
